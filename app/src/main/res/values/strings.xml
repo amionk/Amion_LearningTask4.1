@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> Calculator AM </string>
+    <string name="header"> Add and Multiply </string>
+    <string name="mproblem"> <u>Get the sum of two numbers and multiply it to another number.</u></string>
+    <string name="instruct"> Input two numbers for addition and its sum will be multiplied to the number that you will input for the 3rd time. </string>
+    <string name="f_input"> Input number </string>
+    <string name="s_input"> Input number </string>
+    <string name="instruct2"> Input a number to be multiplied to the sum. </string>
+    <string name="t_input"> Input number</string>
+    <string name="compute_result">Showing Process and Results</string>
+    <string name="txt_close">Close</string>
+</resources>
